@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:E. South America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200917T120430Z
+DESCRIPTION:Não encaminhe este convite. Vá para o Microsoft Teams para co
+	nvidar outras pessoas.\n\nPrezados\, \n \nseguem o convite na nossa Webina
+	r sobre produtividade do Outlook. \n \nAtt. \n\n\n  \n____________________
+	____________________________________________________________\nMicrosoft Te
+	ams\nIngressar em evento ao vivo <https://teams.microsoft.com/l/meetup-joi
+	n/19%3ameeting_NzExOTRkNjQtNzcyNy00MDZiLWJiMjgtNTFjYWY4YzVlNWRm%40thread.v
+	2/0?context=%7b%22Tid%22%3a%22f8c68086-b95c-49cb-9d38-ed37940abef5%22%2c%2
+	2Oid%22%3a%227460ca54-52aa-427f-8f89-15abd8ddf4c0%22%2c%22IsBroadcastMeeti
+	ng%22%3atrue%7d> \nIngresse como produtor ou apresentador quando chegar a 
+	hora do evento ao vivo.\nNão encaminhe este convite para os participantes
+	.\n \nAjuda do produtor <https://go.microsoft.com/fwlink/?linkid=874617>  
+	| Ajuda do apresentador <https://go.microsoft.com/fwlink/?linkid=874618>  
+	| Saiba mais <https://go.microsoft.com/fwlink/?linkid=874616>  \nGerenciar
+	 recursos de evento ao vivo <https://teams.microsoft.com/l/meeting/f8c6808
+	6-b95c-49cb-9d38-ed37940abef5/7460ca54-52aa-427f-8f89-15abd8ddf4c0/19_meet
+	ing_NzExOTRkNjQtNzcyNy00MDZiLWJiMjgtNTFjYWY4YzVlNWRm@thread.v2/0> \n______
+	__________________________________________________________________________
+	\n
+DTEND;TZID="E. South America Standard Time":20200921T180000
+DTSTAMP:20200917T120044Z
+DTSTART;TZID="E. South America Standard Time":20200921T160000
+LAST-MODIFIED:20200917T120430Z
+LOCATION:Teams
+ORGANIZER;CN="Ana Carolina da Silva Chagas Porfirio Rezende":mailto:ana.rez
+	ende@energisa.com.br
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:Webinar: Como o Outlook pode incrementar a sua produ
+	tividade.
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000021FF4000EA8CD601000000000000000
+	010000000FF40FFCFCCC8B949954AF963D3733DBC
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<div style=
+	"color:#484644\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial
+	\,sans-serif\;font-size:12px\;font-weight:bold\;line-height:16px\;margin-b
+	ottom:12px\;opacity:1\;">\n<p>Não encaminhe este convite. Vá para o Micr
+	osoft Teams para convidar outras pessoas.</p>\n</div>\n<div>Prezados\,&nbs
+	p\;</div>\n<div>&nbsp\;</div>\n<div>seguem o convite na nossa Webinar sobr
+	e produtividade do Outlook.&nbsp\;</div>\n<div>&nbsp\;</div>\n<div>Att.&nb
+	sp\;</div>\n<div><br>\n<br>\n&nbsp\;\n<div style="height:20px\;width:100%\
+	;"><span style="white-space:nowrap\;color:gray\;opacity:.36\;">___________
+	_____________________________________________________________________</spa
+	n></div>\n<div style="font-size:14px\;margin-bottom:1px\;margin-top:24px\;
+	"><span class="me-email-text" style="text-decoration:none\;color:#252424\;
+	font-weight:1200\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Ari
+	al\,sans-serif\;">Microsoft Teams</span></div>\n<div class="me-email-text"
+	 style="color:#252424\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica
+	\,Arial\,sans-serif\;">\n<div style="margin-bottom:2px\;margin-top:1px\;">
+	<a class="me-email-headline" href="https://teams.microsoft.com/l/meetup-jo
+	in/19%3ameeting_NzExOTRkNjQtNzcyNy00MDZiLWJiMjgtNTFjYWY4YzVlNWRm%40thread.
+	v2/0?context=%7b%22Tid%22%3a%22f8c68086-b95c-49cb-9d38-ed37940abef5%22%2c%
+	22Oid%22%3a%227460ca54-52aa-427f-8f89-15abd8ddf4c0%22%2c%22IsBroadcastMeet
+	ing%22%3atrue%7d" rel="noreferrer noopener" style="font-size:18px\;font-we
+	ight:600\;font-family:'Segoe UI Semibold'\,'Segoe UI'\,'Helvetica Neue'\,H
+	elvetica\,Arial\,sans-serif\;text-decoration:underline\;color:#5558AF\;" t
+	arget="_blank" title="https://teams.microsoft.com/l/meetup-join/19%3ameeti
+	ng_nzexotrknjqtnzcyny00mdzilwjimjgtntfjywy4yzvlnwrm%40thread.v2/0?context=
+	%7b%22tid%22%3a%22f8c68086-b95c-49cb-9d38-ed37940abef5%22%2c%22oid%22%3a%2
+	27460ca54-52aa-427f-8f89-15abd8ddf4c0%22%2c%22isbroadcastmeeting%22%3atrue
+	%7d">Ingressar\n em evento ao vivo </a></div>\n<div style="margin-bottom:1
+	1px\;margin-top:2px\;"><span class="me-email-text" style="font-size:12px\;
+	text-decoration:none\;color:#252424\;font-family:'Segoe UI'\,'Helvetica Ne
+	ue'\,Helvetica\,Arial\,sans-serif\;">Ingresse como produtor ou apresentado
+	r quando chegar a\n hora do evento ao vivo.<br>\nNão encaminhe este convi
+	te para os participantes.</span></div>\n<div>&nbsp\;</div>\n<a class="me-e
+	mail-link" href="https://go.microsoft.com/fwlink/?linkid=874617" rel="nore
+	ferrer noopener" style="font-size:12px\;margin-bottom:11px\;text-decoratio
+	n:none\;color:#6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica
+	\,Arial\,sans-serif\;" target="_blank" title="https://go.microsoft.com/fwl
+	ink/?linkid=874617">Ajuda\n do produtor</a> | <a class="me-email-link" hre
+	f="https://go.microsoft.com/fwlink/?linkid=874618" rel="noreferrer noopene
+	r" style="font-size:12px\;margin-bottom:11px\;text-decoration:none\;color:
+	#6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-
+	serif\;" target="_blank" title="https://go.microsoft.com/fwlink/?linkid=87
+	4618">\nAjuda do apresentador</a> | <a class="me-email-link" href="https:/
+	/go.microsoft.com/fwlink/?linkid=874616" rel="noreferrer noopener" style="
+	font-size:12px\;margin-bottom:11px\;text-decoration:none\;color:#6264a7\;f
+	ont-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" t
+	arget="_blank" title="https://go.microsoft.com/fwlink/?linkid=874616">\nSa
+	iba mais</a>\n<div style="margin-bottom:24px\;margin-top:14px\;"><a class=
+	"me-email-link" href="https://teams.microsoft.com/l/meeting/f8c68086-b95c-
+	49cb-9d38-ed37940abef5/7460ca54-52aa-427f-8f89-15abd8ddf4c0/19_meeting_NzE
+	xOTRkNjQtNzcyNy00MDZiLWJiMjgtNTFjYWY4YzVlNWRm@thread.v2/0" rel="noreferrer
+	 noopener" style="font-size:14px\;text-decoration:none\;color:#6264a7\;lin
+	e-height:14px\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\
+	,sans-serif\;" target="_blank" title="https://teams.microsoft.com/l/meetin
+	g/f8c68086-b95c-49cb-9d38-ed37940abef5/7460ca54-52aa-427f-8f89-15abd8ddf4c
+	0/19_meeting_nzexotrknjqtnzcyny00mdzilwjimjgtntfjywy4yzvlnwrm@thread.v2/0"
+	>Gerenciar\n recursos de evento ao vivo</a></div>\n</div>\n<div style="hei
+	ght:20px\;width:100%\;"><span style="white-space:nowrap\;color:gray\;opaci
+	ty:.36\;">________________________________________________________________
+	________________</span></div>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20200917T120044Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
